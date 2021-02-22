@@ -1,0 +1,7 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 20,
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#459cff",
+    },
+}
