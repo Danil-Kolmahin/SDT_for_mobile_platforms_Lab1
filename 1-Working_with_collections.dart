@@ -19,10 +19,7 @@ main() {
     [1],
     [1, 2]
   ];
-
-  // list1 = {};
-  // list2 = {};
-
+  
   final list6 = []; // cannot be reassigned
   var list7 = const []; // compile-time constant
   const list8 = []; // == final list8 = const []; contains final

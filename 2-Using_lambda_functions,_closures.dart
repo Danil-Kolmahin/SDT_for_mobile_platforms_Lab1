@@ -2,7 +2,7 @@ function1(arg, arg1) => (() => arg(arg1));
 
 // Function() function1(Function arg, String arg1) => (() => arg(arg1));
 
-// function2(arg, arg1) {
+// function1(arg, arg1) {
 //   return () {
 //     return arg(arg1);
 //   };
